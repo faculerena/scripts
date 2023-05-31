@@ -12,7 +12,7 @@ I will tag them with the language they are written in. Everything is intended to
 - `filterByHours.py` [python] - Return a summary of the runtime of a program, 1 line per hour (01:00:00, 02:00:00, and so on).
   
 
-# Git
+## Git
 
 - `commit.sh` [bash] - This is a [Gum](https://github.com/charmbracelet/gum) script, I love it. It's a wrapper for git commit, with a cute interface to write title and body.
 
