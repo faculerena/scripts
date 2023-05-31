@@ -16,3 +16,6 @@ I will tag them with the language they are written in. Everything is intended to
 
 - `commit.sh` [bash] - This is a [Gum](https://github.com/charmbracelet/gum) script, I love it. It's a wrapper for git commit, with a cute interface to write title and body.
 
+## Ethereum
+
+- `deploy.py` [python] - Deploy a contract to target network configured in `hardhat.config.js`, it recieves the name of the contract, the constructor args and the network to deploy to.
